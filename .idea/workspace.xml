@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16697f7f-71d1-46d2-9d6c-09c872912bbc" name="Changes" comment="Commit changes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/GenericsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWith2DArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithStacks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learning/TheArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.WorkingWithStacks">
     <configuration name="GenericsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learning.GenericsClass" />
       <module name="java-dsa" />
@@ -74,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithArrays" />
+    <configuration name="WorkingWithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithLists" />
       <module name="java-dsa" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithLists" />
+    <configuration name="WorkingWithStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithStacks" />
       <module name="java-dsa" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WorkingWithStacks" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.WorkingWithLists" />
         <item itemvalue="Application.GenericsClass" />
         <item itemvalue="Application.WorkingWith2DArrays" />
-        <item itemvalue="Application.WorkingWithArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665815565641</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit changes">
+      <created>1665980060423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665980060423</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
