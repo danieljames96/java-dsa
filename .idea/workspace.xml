@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16697f7f-71d1-46d2-9d6c-09c872912bbc" name="Changes" comment="Commit changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithQueues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learning/WorkingWithStacks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +42,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Training/Java/java-dsa"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WorkingWithStacks">
-    <configuration name="GenericsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.GenericsClass" />
+  <component name="RunManager" selected="Application.WorkingWithSets">
+    <configuration name="WorkingWithLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithLinkedLists" />
       <module name="java-dsa" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWith2DArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWith2DArrays" />
+    <configuration name="WorkingWithQueues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithQueues" />
       <module name="java-dsa" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithLists" />
+    <configuration name="WorkingWithSets (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithSets" />
       <module name="java-dsa" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithStacks" />
+    <configuration name="WorkingWithSets (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithSets" />
       <module name="java-dsa" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learning.test" />
+    <configuration name="WorkingWithSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.WorkingWithSets" />
       <module name="java-dsa" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WorkingWithStacks" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.WorkingWithLists" />
-        <item itemvalue="Application.GenericsClass" />
-        <item itemvalue="Application.WorkingWith2DArrays" />
+        <item itemvalue="Application.WorkingWithSets" />
+        <item itemvalue="Application.WorkingWithSets (2)" />
+        <item itemvalue="Application.WorkingWithSets (1)" />
+        <item itemvalue="Application.WorkingWithLinkedLists" />
+        <item itemvalue="Application.WorkingWithQueues" />
       </list>
     </recent_temporary>
   </component>
